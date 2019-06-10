@@ -1,0 +1,10 @@
+C:\Users\Administrator.MMGC\Documents\Visual Studio 2010\Projects\MSM\MSM\bin\x64\Debug\MSM.exe
+C:\Users\Administrator.MMGC\Documents\Visual Studio 2010\Projects\MSM\MSM\bin\x64\Debug\MSM.pdb
+C:\Users\Administrator.MMGC\Documents\Visual Studio 2010\Projects\MSM\MSM\bin\x64\Debug\MetroFramework.dll
+C:\Users\Administrator.MMGC\Documents\Visual Studio 2010\Projects\MSM\MSM\bin\x64\Debug\MetroFramework.Fonts.dll
+C:\Users\Administrator.MMGC\Documents\Visual Studio 2010\Projects\MSM\MSM\obj\x64\Debug\MSM.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.MMGC\Documents\Visual Studio 2010\Projects\MSM\MSM\obj\x64\Debug\MSM.Form1.resources
+C:\Users\Administrator.MMGC\Documents\Visual Studio 2010\Projects\MSM\MSM\obj\x64\Debug\MSM.Properties.Resources.resources
+C:\Users\Administrator.MMGC\Documents\Visual Studio 2010\Projects\MSM\MSM\obj\x64\Debug\MSM.csproj.GenerateResource.Cache
+C:\Users\Administrator.MMGC\Documents\Visual Studio 2010\Projects\MSM\MSM\obj\x64\Debug\MSM.exe
+C:\Users\Administrator.MMGC\Documents\Visual Studio 2010\Projects\MSM\MSM\obj\x64\Debug\MSM.pdb

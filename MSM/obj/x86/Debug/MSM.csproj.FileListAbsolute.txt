@@ -1,0 +1,22 @@
+c:\users\administrator.mmgc\documents\visual studio 2010\Projects\MSM\MSM\obj\x86\Debug\MSM.csprojResolveAssemblyReference.cache
+c:\users\administrator.mmgc\documents\visual studio 2010\Projects\MSM\MSM\obj\x86\Debug\MSM.Form1.resources
+c:\users\administrator.mmgc\documents\visual studio 2010\Projects\MSM\MSM\obj\x86\Debug\MSM.Properties.Resources.resources
+c:\users\administrator.mmgc\documents\visual studio 2010\Projects\MSM\MSM\obj\x86\Debug\MSM.csproj.GenerateResource.Cache
+c:\users\administrator.mmgc\documents\visual studio 2010\Projects\MSM\MSM\bin\Debug\MSM.exe
+c:\users\administrator.mmgc\documents\visual studio 2010\Projects\MSM\MSM\bin\Debug\MSM.pdb
+c:\users\administrator.mmgc\documents\visual studio 2010\Projects\MSM\MSM\bin\Debug\MetroFramework.dll
+c:\users\administrator.mmgc\documents\visual studio 2010\Projects\MSM\MSM\bin\Debug\MetroFramework.Fonts.dll
+c:\users\administrator.mmgc\documents\visual studio 2010\Projects\MSM\MSM\obj\x86\Debug\MSM.exe
+c:\users\administrator.mmgc\documents\visual studio 2010\Projects\MSM\MSM\obj\x86\Debug\MSM.pdb
+C:\Users\Administrator.MMGC\documents\visual studio 2010\Projects\MSM\MSM\bin\Debug\MSM.exe.config
+C:\Users\Karim Alaa\Desktop\MSM\MSM\bin\Debug\MSM.exe.config
+C:\Users\Karim Alaa\Desktop\MSM\MSM\bin\Debug\MSM.exe
+C:\Users\Karim Alaa\Desktop\MSM\MSM\bin\Debug\MSM.pdb
+C:\Users\Karim Alaa\Desktop\MSM\MSM\obj\x86\Debug\MSM.csprojAssemblyReference.cache
+C:\Users\Karim Alaa\Desktop\MSM\MSM\obj\x86\Debug\MSM.Form1.resources
+C:\Users\Karim Alaa\Desktop\MSM\MSM\obj\x86\Debug\MSM.Properties.Resources.resources
+C:\Users\Karim Alaa\Desktop\MSM\MSM\obj\x86\Debug\MSM.csproj.GenerateResource.cache
+C:\Users\Karim Alaa\Desktop\MSM\MSM\obj\x86\Debug\MSM.csproj.CoreCompileInputs.cache
+C:\Users\Karim Alaa\Desktop\MSM\MSM\obj\x86\Debug\MSM.csproj.CopyComplete
+C:\Users\Karim Alaa\Desktop\MSM\MSM\obj\x86\Debug\MSM.exe
+C:\Users\Karim Alaa\Desktop\MSM\MSM\obj\x86\Debug\MSM.pdb
